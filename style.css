@@ -1,0 +1,104 @@
+body {
+  font-family: Courier, monospace;
+  background-color: rgba(223, 225, 238, 0.2);
+}
+
+h1 {
+  color: #9D3CC4;
+  text-align: center;
+  font-size: 60px;
+  font-weight: strong;
+  letter-spacing: 10px;
+}
+
+h2 {
+  color: #A766C1;
+  text-align: center;
+}
+
+h3 {
+  color: #DBB8E9;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-weight: lighter;
+  color: #3A1648
+}
+
+.bigger-h2 {
+  color: #A54DC9;
+  letter-spacing: 5px;
+  font-size: 29px;
+  font-weight: strong;
+  line-height: 1.5;
+}
+
+.smaller-h2 {
+  font-weight: lighter;
+}
+
+#profile-pic {
+  border-radius: 120px;
+  width: 335px;
+  height: 350px;
+  margin: 20px
+}
+
+#movie-pic-1 {
+  width: 395px;
+  height: 250px;
+}
+
+#movie-pic-2 {
+  width: 235px;
+  height: 358px;
+}
+
+.music-pic {
+  width: 200px;
+  padding-right: 20px;
+  padding-left: 5px;
+}
+
+.general-card {
+  height: 1px;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 20px;
+  border-top: 10px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  margin: 50px;
+  text-align: center;
+  background-color: #F7F7FA;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.contact-container {
+  margin: 50px;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.list-inline < li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
